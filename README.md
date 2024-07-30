@@ -29,7 +29,6 @@ You need [R](https://rstudio-education.github.io/hopr/starting.html) for this pr
 ### Option 2: without git
 1. Download the project as a zip file
 2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
-3. In windows, the subnetting.py file can be clicked to execute
 
 #### Run from the command line
 1. Find the location of the files
