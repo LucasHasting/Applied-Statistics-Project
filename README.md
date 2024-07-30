@@ -11,7 +11,7 @@ This repository holds my project from my Applied Statistics class. The project w
 
 ## Installation
 
-You need R for this project, RStudio is recommended.
+You need [R](https://rstudio-education.github.io/hopr/starting.html) for this project, [RStudio](https://rstudio-education.github.io/hopr/starting.html) is recommended.
 
 ### Project Dependencies
 Once R is installed, run the following R commands:
