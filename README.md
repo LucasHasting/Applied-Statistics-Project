@@ -38,8 +38,13 @@ You need [R](https://rstudio-education.github.io/hopr/starting.html) for this pr
    cd /path/to/files
    Rscript Project.R
    ```
+4. All graphs are located in the project folder
 
 ### Run from RStudio
+1. Click File (located at the top left) -> Open File
+2. Open Project.R
+3. Click the run button (located at the top below the tabs)
+4. The graphs are located at the bottom right, the left and right arrows can be used to select a graph
 
 ## Usage
 
