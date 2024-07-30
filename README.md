@@ -1,6 +1,6 @@
 # Applied-Statistics-Project
 
-This program works as a subnet calculator similar to the website [here](https://www.calculator.net/ip-subnet-calculator.html)
+This repository holds my project from my Applied Statistics class. The project was to determine if any discrimination was found in the California Department of Defense. R was used for the analysis of the [California_DDS_Expenditures.csv]() file. Instructions on how to use the R file to duplicate this analysis is located below.
 
 ## Table of Contents
 
@@ -11,7 +11,13 @@ This program works as a subnet calculator similar to the website [here](https://
 
 ## Installation
 
-This project does not require any external pip packages. You only need [Python](https://www.python.org/downloads/) installed on your system.
+You need R for this project, RStudio is recommended.
+
+### Project Dependencies
+Once R is installed, run the following R commands:
+```sh
+git clone https://github.com/LucasHasting/IP-Subnet-Calculator.git
+```
 
 ### Option 1: using [git](https://git-scm.com/downloads)
 1. Clone the repository:
@@ -26,6 +32,7 @@ This project does not require any external pip packages. You only need [Python](
     cd IP-Subnet-Calculator
     py subnetting.py
     ```
+    
 ### Option 2: without git
 1. Download the project as a zip file
 2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
@@ -40,9 +47,11 @@ This project does not require any external pip packages. You only need [Python](
    py subnetting.py
    ```
 
+### Run from RStudio
+
 ## Usage
 
-The main purpose of the R script is to subset the data in _.csv and to generate graphs based on the subsetted data, the graphs can be found in the _,pdf paper.
+The main purpose of the R script is to subset the data in [California_DDS_Expenditures.csv](https://github.com/LucasHasting/Applied-Statistics-Project/blob/main/Discrimination%20in%20the%20California%20Department%20of%20Defense.pdf) and to generate graphs based on the subsetted data, the graphs can be found in the [Discrimination in the California Department of Defense.pdf](https://github.com/LucasHasting/Applied-Statistics-Project/blob/main/Discrimination%20in%20the%20California%20Department%20of%20Defense.pdf) paper.
 
 ## Example
 
@@ -50,5 +59,4 @@ The main purpose of the R script is to subset the data in _.csv and to generate 
 
 ## Program-Overview
 
-[subnetting.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/subnetting.py): contains the main driver of the program and is what needs to be executed.   
-[functions_and_constants.py](https://github.com/LucasHasting/IP-Subnet-Calculator/blob/main/functions_and_constants.py): contains the constants used in both programs and the functions used in subnetting.py
+[Project.R](https://github.com/LucasHasting/Applied-Statistics-Project/blob/main/Project.R): contains the R script used in the paper.  
