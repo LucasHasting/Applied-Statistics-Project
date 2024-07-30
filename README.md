@@ -29,16 +29,17 @@ You need [R](https://rstudio-education.github.io/hopr/starting.html) for this pr
 ### Option 2: without git
 1. Download the project as a zip file
 2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
-
-#### Run from the command line
-1. Find the location of the files
-2. Copy the path
 3. go to the command line and run the following:
    ```sh
    cd /path/to/files
+   ```
+
+#### Run from the command line
+1. go to the command line and run the following:
+   ```sh
    Rscript Project.R
    ```
-4. All graphs are located in the project folder
+2. All graphs are located in the project folder
 
 ### Run from RStudio
 1. Click File (located at the top left) -> Open File
