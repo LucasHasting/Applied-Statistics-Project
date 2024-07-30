@@ -57,11 +57,11 @@ The main purpose of the R script is to subset the data in [California_DDS_Expend
 ## Example
 
 ### CMD
-![EXAMPLE](example1.png)
-![EXAMPLE](example2.png)
+![EXAMPLE](examples/example1.png)
+![EXAMPLE](examples/example2.png)
 
 ### RStudio
-![EXAMPLE](example3.png)
+![EXAMPLE](examples/example3.png)
 
 ## Program-Overview
 
