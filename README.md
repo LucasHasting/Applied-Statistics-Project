@@ -20,7 +20,7 @@ You need [R](https://rstudio-education.github.io/hopr/starting.html) for this pr
     git clone https://github.com/LucasHasting/Applied-Statistics-Project.git
     ```
 
-2. Navigate to the project directory and execute the program:
+2. Navigate to the project directory:
 
     ```sh
     cd Applied-Statistics-Project
