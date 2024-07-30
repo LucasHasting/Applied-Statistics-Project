@@ -39,13 +39,16 @@ You need [R](https://rstudio-education.github.io/hopr/starting.html) for this pr
    ```sh
    Rscript Project.R
    ```
-2. All graphs are located in the project folder
+2. All graphs are located in the project folder in the Rplots.pdf file
 
 ### Run from RStudio
 1. Click File (located at the top left) -> Open File
 2. Open Project.R
-3. Click the run button (located at the top below the tabs)
-4. The graphs are located at the bottom right, the left and right arrows can be used to select a graph
+3. Click Session (located near File) -> Set Working Directory -> To Source File Location
+4. Click where the script is
+5. Click ctrl (cmd on mac) + a
+6. Click the run button (located at the top below the tabs)
+7. The graphs are located at the bottom right, the left and right arrows can be used to select a graph
 
 ## Usage
 
@@ -53,7 +56,12 @@ The main purpose of the R script is to subset the data in [California_DDS_Expend
 
 ## Example
 
-![EXAMPLE](example.png)
+### CMD
+![EXAMPLE](example1.png)
+![EXAMPLE](example2.png)
+
+### RStudio
+![EXAMPLE](example3.png)
 
 ## Program-Overview
 
