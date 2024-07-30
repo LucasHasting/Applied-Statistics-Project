@@ -13,24 +13,17 @@ This repository holds my project from my Applied Statistics class. The project w
 
 You need [R](https://rstudio-education.github.io/hopr/starting.html) for this project, [RStudio](https://rstudio-education.github.io/hopr/starting.html) is recommended.
 
-### Project Dependencies
-Once R is installed, run the following R commands:
-```sh
-git clone https://github.com/LucasHasting/IP-Subnet-Calculator.git
-```
-
 ### Option 1: using [git](https://git-scm.com/downloads)
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/LucasHasting/IP-Subnet-Calculator.git
+    git clone https://github.com/LucasHasting/Applied-Statistics-Project.git
     ```
 
 2. Navigate to the project directory and execute the program:
 
     ```sh
-    cd IP-Subnet-Calculator
-    py subnetting.py
+    cd Applied-Statistics-Project
     ```
     
 ### Option 2: without git
@@ -44,7 +37,7 @@ git clone https://github.com/LucasHasting/IP-Subnet-Calculator.git
 3. go to the command line and run the following:
    ```sh
    cd /path/to/files
-   py subnetting.py
+   Rscript Project.R
    ```
 
 ### Run from RStudio
