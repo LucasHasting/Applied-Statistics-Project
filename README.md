@@ -41,7 +41,7 @@ You need [R](https://rstudio-education.github.io/hopr/starting.html) for this pr
    ```
 2. All graphs are located in the project folder in the Rplots.pdf file
 
-### Run from RStudio
+#### Run from RStudio
 1. Click File (located at the top left) -> Open File
 2. Open Project.R
 3. Click Session (located near File) -> Set Working Directory -> To Source File Location
